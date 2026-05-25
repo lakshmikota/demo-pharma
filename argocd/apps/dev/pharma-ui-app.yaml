@@ -13,7 +13,7 @@ spec:
   project: pharma
 
   source:
-    repoURL: https://github.com/lakshmikota/pharmops-gitops.git
+    repoURL: https://github.com/lakshmikota/demo-pharma.git
     targetRevision: HEAD
     path: k8s-manifests/pharma-ui
 
